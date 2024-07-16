@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-   "https://fofa.info/result?qbase64=b3JnPSJDaGluYSBNb2JpbGUgY29tbXVuaWNhdGlvbnMgY29ycG9yYXRpb24i",  # Guangdong (广东移动)
+   "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgb3JnPSJDaGluYSBNb2JpbGUgY29tbXVuaWNhdGlvbnMgY29ycG9yYXRpb24i"  # Guangdong (广东移动)
     ]
 
 def modify_urls(url):
